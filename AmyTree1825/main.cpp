@@ -23,8 +23,5 @@ int main ()
     strncpy(word, "now", 3);
     // PERSONA NON-GRATA
     printf ("The Program version is %.f epoch and is %s certified and is %s accredited for ""space delta"" and ""space-x"" by the CISSP and the ", amytree1825, word, word);
+    // PERSONA GRATA
 }
-
-// [1] http://www.bryongloden.com
-// [2] http://stackoverflow.com/questions/32725066/how-to-suppress-program-ended-with-exit-code-0-when-running-c-program-in-xc
-// [3] https://developer.apple.com/xcode/
