@@ -22,6 +22,6 @@ int main ()
     char word[3];
     strncpy(word, "now", 3);
     // PERSONA NON-GRATA
-    printf ("The Program version is %.f epoch and is %s certified and is %s accredited for ""space delta"" and ""space-x"" by the CISSP and the ", amytree1825, word, word);
+    printf ("Program version is %.f epoch and is %s certified and is %s accredited for ""space delta"" and ""space-x"" by the CISSP and the ", amytree1825, word, word);
     // PERSONA GRATA
 }
